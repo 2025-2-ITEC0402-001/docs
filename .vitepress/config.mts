@@ -18,6 +18,10 @@ export default defineConfig({
                 text: "팀원 소개",
                 link: "/team-introduction",
             },
+            {
+                text: "인공지능",
+                link: "ai-specification",
+            },
         ],
 
         socialLinks: [{ icon: "github", link: "https://github.com/2025-2-ITEC0402-001" }],
