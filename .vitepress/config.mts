@@ -20,7 +20,7 @@ export default defineConfig({
             },
             {
                 text: "인공지능",
-                link: "ai-specification",
+                link: "/ai-specification",
             },
         ],
 
